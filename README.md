@@ -10,13 +10,13 @@ This profile is a reflection of my engineering journey: I build everything from 
 
 ### Tools & Tech
 
-* **Language:** Python
-* **Deep Learning & CV:** PyTorch, Albumentations, Grad-CAM, TensorBoard
-* **Core Libraries:** OpenCV, NumPy, Scikit-learn, OS
+* **Language:** `Python`
+* **Deep Learning & CV:** `PyTorch`, `Albumentations`, `Grad-CAM`, `TensorBoard`
+* **Core Libraries:** `OpenCV`, `NumPy`, `Scikit-learn`, `OS`
 
 ---
 
-### My Approach to AI
+### My Approach to Deep Learning
 
 Unlike the "black box" approach, I decided to build my foundation from the ground up. Before jumping into complex architectures, I dedicated time to:
 
