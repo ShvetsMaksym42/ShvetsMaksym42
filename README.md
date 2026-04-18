@@ -24,6 +24,9 @@ I aim to understand both fundamental principles and modern high-level frameworks
 * **Classical Machine Learning:** Understanding the core algorithms before moving to Deep Learning.
 * **Computer Vision Core:** Studying how pixels become features, from basic filters to Residual Networks.
 
+**Current Milestone:** 
+* Successfully applied these principles in my [**Industrial Casting Inspection**](https://github.com/ShvetsMaksym42/industrial-casting-inspection) project. I developed a custom CNN that is **16x smaller** than ResNet18, achieving **99.6% accuracy** and verified via **Grad-CAM** interpretability.
+
 ---
 
 ### Current Status
