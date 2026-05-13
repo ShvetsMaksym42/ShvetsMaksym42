@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-I'm Maksym, a Computer Vision engineer based in **Germany**. 
-
-I am currently focused on mastering **Object Detection** (specifically the **YOLO** family) and architecting a comprehensive project to demonstrate real-time detection capabilities. 
+I'm Maksym, an ML / Computer Vision Engineer based in **Germany**. 
 
 This profile is a reflection of my engineering journey: I prioritize implementing core components to understand them deeply.
 
@@ -18,19 +16,19 @@ This profile is a reflection of my engineering journey: I prioritize implementin
 
 ### My Approach to Deep Learning
 
-I aim to understand both fundamental principles and modern high-level frameworks, I decided to build my foundation from the ground up. Before jumping into complex architectures, I dedicated time to:
+I built my foundation from the ground up — before jumping into complex architectures, I dedicated time to:
 
 * **The Fundamentals:** `Linear Algebra`, `Calculus`, `Probability`, and `Statistics`.
-* **Classical Machine Learning:** Understanding the core algorithms before moving to Deep Learning.
-* **Computer Vision Core:** Studying how pixels become features, from basic filters to Residual Networks.
+* **Classical Machine Learning:** Core algorithms before Deep Learning.
+* **Computer Vision Core:** From basic filters to Residual Networks.
 
 **Current Milestone:** 
-* Successfully applied these principles in my [**Industrial Casting Inspection**](https://github.com/ShvetsMaksym42/industrial-casting-inspection) project. I developed a custom CNN that is **16x smaller** than ResNet18, achieving **99.6% accuracy** and verified via **Grad-CAM** interpretability.
+* Developed a custom CNN that is **16x smaller** than ResNet18, achieving **99.6% accuracy**, verified via **Grad-CAM** [**Industrial Casting Inspection**](https://github.com/ShvetsMaksym42/industrial-casting-inspection).
 
 ---
 
 ### Current Status
-* 🔭 **Focused on:** Real-time Object Detection with YOLO.
-* 🚀 **Open to work:** Looking for opportunities to grow as a CV / Machine Learning Engineer.
+* 🔭 **Focused on:** Real-time Object Detection with YOLO — cascade architecture with latency & recall optimization.
+* 🚀 **Open to:** ML Engineer, CV Engineer, AI Engineer, Python Developer, Automation — Junior, Intern, Praktikum.
 
 ---
