@@ -9,8 +9,8 @@ This profile is a reflection of my engineering journey: I prioritize implementin
 ### Tools & Tech
 
 * **Language:** `Python`
-* **Deep Learning & CV:** `PyTorch`, `Albumentations`, `Grad-CAM`, `TensorBoard`
-* **Core Libraries:** `OpenCV`, `NumPy`, `Scikit-learn`
+* **Deep Learning & CV:** `PyTorch`, `Albumentations`, `Ultralytics YOLOv8`, `Grad-CAM`, `TensorBoard`
+* **Core Libraries:** `OpenCV`, `NumPy`, `Pandas`, `Scikit-learn`
 
 ---
 
