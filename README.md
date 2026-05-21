@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Maksym, an Junior Applied Machine Learning (Computer Vision) based in **Germany**. 
+I'm Maksym, a junior machine learning enthusiast focused on applied computer vision, based in **Germany**. 
 
 This profile is a reflection of my engineering journey: I prioritize implementing core components to understand them deeply.
 
@@ -22,14 +22,14 @@ I built my foundation from the ground up — before jumping into complex archite
 * **Classical Machine Learning:** Core algorithms before Deep Learning.
 * **Computer Vision Core:** From basic filters to Residual Networks.
 
-**Current Milestone:** 
+**Recent Projects:** 
 * Built an end-to-end steel defect detection pipeline using **YOLOv8m** — including `RLE decoding`, `image tiling`, `bbox extraction`, stratified splitting, model training, and evaluation [**Severstal Steel Defect Detection**](https://github.com/ShvetsMaksym42/steel-surface-defect-detection)
 * Developed a custom CNN that is **16x smaller** than ResNet18, achieving **99.6% accuracy**, verified via **Grad-CAM** [**Industrial Casting Inspection**](https://github.com/ShvetsMaksym42/industrial-casting-inspection).
 
 ---
 
 ### Current Status
-* 🔭 **Focused on:** Real-time Object Detection with YOLO — cascade architecture with latency & recall optimization.
-* 🚀 **Open to:** Junior ML Engineer | Computer Vision Engineer | Python ML Developer — Junior, Intern, Praktikum.
+* 🔭 **Focused on:** Exploring real-time object detection and cascade architectures for recall optimization..
+* 🚀 **Open to:** Junior ML / Computer Vision Engineer roles, internships, and Praktikum opportunities.
 
 ---
