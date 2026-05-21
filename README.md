@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Maksym, an ML / Computer Vision Engineer based in **Germany**. 
+I'm Maksym, an Junior Applied Machine Learning (Computer Vision) based in **Germany**. 
 
 This profile is a reflection of my engineering journey: I prioritize implementing core components to understand them deeply.
 
@@ -10,7 +10,7 @@ This profile is a reflection of my engineering journey: I prioritize implementin
 
 * **Language:** `Python`
 * **Deep Learning & CV:** `PyTorch`, `Albumentations`, `Grad-CAM`, `TensorBoard`
-* **Core Libraries:** `OpenCV`, `NumPy`, `Scikit-learn`, `OS`
+* **Core Libraries:** `OpenCV`, `NumPy`, `Scikit-learn`
 
 ---
 
@@ -29,6 +29,6 @@ I built my foundation from the ground up — before jumping into complex archite
 
 ### Current Status
 * 🔭 **Focused on:** Real-time Object Detection with YOLO — cascade architecture with latency & recall optimization.
-* 🚀 **Open to:** ML Engineer, CV Engineer, AI Engineer, Python Developer, Automation — Junior, Intern, Praktikum.
+* 🚀 **Open to:** Junior ML Engineer | Computer Vision Engineer | Python ML Developer — Junior, Intern, Praktikum.
 
 ---
