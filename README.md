@@ -23,6 +23,7 @@ I built my foundation from the ground up — before jumping into complex archite
 * **Computer Vision Core:** From basic filters to Residual Networks.
 
 **Current Milestone:** 
+* Built an end-to-end steel defect detection pipeline using **YOLOv8m** — including `RLE decoding`, `image tiling`, `bbox extraction`, stratified splitting, model training, and evaluation [**Severstal Steel Defect Detection**](https://github.com/ShvetsMaksym42/steel-surface-defect-detection)
 * Developed a custom CNN that is **16x smaller** than ResNet18, achieving **99.6% accuracy**, verified via **Grad-CAM** [**Industrial Casting Inspection**](https://github.com/ShvetsMaksym42/industrial-casting-inspection).
 
 ---
