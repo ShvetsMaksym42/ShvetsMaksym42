@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Maksym, a junior machine learning enthusiast focused on applied computer vision, based in **Germany**. 
+I'm Maksym, a junior **Machine Learning** enthusiast focused on applied computer vision, based in **Germany**. 
 
 This profile is a reflection of my engineering journey: I prioritize implementing core components to understand them deeply.
 
@@ -29,7 +29,7 @@ I built my foundation from the ground up — before jumping into complex archite
 ---
 
 ### Current Status
-* 🔭 **Focused on:** Exploring real-time object detection and cascade architectures for recall optimization..
+* 🔭 **Focused on:** Exploring real-time object detection and cascade architectures for recall optimization.
 * 🚀 **Open to:** Junior ML / Computer Vision Engineer roles, internships, and Praktikum opportunities.
 
 ---
