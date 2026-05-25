@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Maksym, a junior **Machine Learning** enthusiast focused on applied computer vision, based in **Germany**. 
+I'm Maksym, a junior **Machine Learning** Engineer focused on applied computer vision, based in **Germany**. 
 
 This profile is a reflection of my engineering journey: I prioritize implementing core components to understand them deeply.
 
