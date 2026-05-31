@@ -21,5 +21,3 @@ I'm Maksym, focused on applied **Computer Vision** and **Machine Learning**, bas
 ### Current Status
 * 🔭 **Focused on:** Building REST API and deployment pipeline for the Severstal steel defect detection model.
 * 🚀 **Open to:** ML / Computer Vision Engineer roles and internships.
-
----
